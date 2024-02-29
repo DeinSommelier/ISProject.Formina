@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ISProject.Formina", "ISProject.Formina\ISProject.Formina.csproj", "{0EE7E8B8-D464-4A20-B347-25869046C335}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0EE7E8B8-D464-4A20-B347-25869046C335}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EE7E8B8-D464-4A20-B347-25869046C335}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EE7E8B8-D464-4A20-B347-25869046C335}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EE7E8B8-D464-4A20-B347-25869046C335}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D99AD727-B7C0-4A28-9361-62546027C50D}
+	EndGlobalSection
+EndGlobal
